@@ -1,3 +1,5 @@
+⚠️This is a demo project, the API key is public and may stop working if overused.
+
 # 🌦️ Weather App
 
 A simple Weather App built with HTML, CSS, and JavaScript that fetches real-time weather data using the [OpenWeather API](https://openweathermap.org/). Users can search for any city and view live weather conditions in a clean, responsive UI.  
